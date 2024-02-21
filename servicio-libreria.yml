@@ -2,9 +2,6 @@ keycloak:
   clientId: validador
 server:
   port: 8000
-spring:
-  application:
-    name: servicio-libreria
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: root
